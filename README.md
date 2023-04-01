@@ -1,1 +1,70 @@
-# cv
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>BILL GATES</title>
+       
+    </head>
+    <body>
+
+       
+         <h1>BILL GATES</h1>
+                    <p><img src="Bill gates.png">
+                    <p>He is the <strong><i>founder of Microsoft.</i></strong></td></p>
+
+               <img src="Microsoft.png"alt="Microsoft"></p>
+<hr>
+
+<table>
+    <tr><h2><strong><i><u>Books And Reading</u></i></strong></h2>
+        <td><p><h3><i>Books Recommended By Bill Gates</i></h3>
+            <ul>
+                <li>'The Power' by Naomi Alderman. Book cover of 'The Power' by Naomi Alderman.</li>
+                <li>'Why We're Polarized' by Ezra Klein.</li>
+                <li>'The Lincoln Highway' by Amor Towles.</li>
+                <li>'The Ministry for the Future' by Kim Stanley Robinson.</li>
+                <li>'How the World Really Works' by Vaclav Smil.</li>
+             </ul></p>
+            </td>
+
+        <td><img src="BOOKS.jpg" height="350" width="350"></td> 
+    </tr>
+</table>
+<hr>
+<h2><strong><i><u>About Microsoft</u></i></strong></h2>
+
+<p>
+    Microsoft Corporation is an<b> American multinational technology corporation headquartered in 
+    Redmond, Washington</b>. Microsoft's best-known software products are the Windows line of operating systems, the Microsoft Office suite,
+    and the Internet Explorer and Edge web browsers. 
+    Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked<b> No. 14 in the 2022 Fortune 500 rankings</b> of 
+    the largest United States corporations by total revenue;[2] it was the<b>world's largest software</b> maker by revenue as of 2022. It is considered as one of the Big Five American information technology companies, 
+    alongside Alphabet (parent company of Google), Amazon, Apple, and Meta (formerly Facebook).
+</p>
+
+<p>Microsoft was <b>founded by Bill Gates and Paul Allen on April 4, 1975,</b> to develop and 
+    sell BASIC interpreters for the Altair 8800. It rose to dominate the personal computer operating system 
+    market with MS-DOS in the mid-1980s, followed by Windows. The company's 1986 initial public offering (IPO),
+     and subsequent rise in its share price,<b> created three billionaires and an estimated 12,000 millionaires</b>
+      among Microsoft employees. Since the 1990s, it has increasingly diversified from the operating system
+       market and has made a number of corporate acquisitions, their largest being the acquisition of LinkedIn for $26.2 billion in December 2016,[3] 
+    followed by their acquisition of Skype Technologies for $8.5 billion in May 2011.[4]</p>
+
+  <img src="1981BillPaul.jpg" alt="Bill and Paul work">
+<hr>
+<table cellspacing="50px">
+    <tr>
+    <h1><strong><i><u>Hobbies</u></i></strong></h1>
+
+<td >
+<ol>
+    <li><strong><i><h3><a href="Books.html">Books</a></h3></i></strong></li>
+    <li><strong><i><h3><a href="Games.html">Games</a></h3></i></strong></li>
+   
+</ol></td>
+
+<td><img src="Hobbies.jpg"></td>
+
+</tr>
+</table>
+    </body>
+</html>
